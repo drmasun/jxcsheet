@@ -7,3 +7,6 @@ A Web Interface for the master XLSX file containing all of the races run by stud
 2. [jQuery](https://jquery.com/)
 3. [Cleave.js](https://github.com/nosir/cleave.js)
 4. [lodash](https://github.com/lodash/lodash)
+
+**Live Demo:**
+https://rozmaps.us/sheet
